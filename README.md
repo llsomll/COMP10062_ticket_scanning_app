@@ -32,5 +32,5 @@ Ticket Scanning App is a user-friendly desktop application designed to manage ev
   * Displays real-time status in the GUI and plays corresponding sounds for user guidance.
 
 ## Technologies
-* Java
+* Java, JavaFX
 
