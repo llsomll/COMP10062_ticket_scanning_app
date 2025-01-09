@@ -1,0 +1,38 @@
+
+.button {
+    -fx-min-width: 130;
+    -fx-min-height: 50;
+    -fx-font-size: 25;
+    -fx-font-family: "System";
+    -fx-text-fill: #8ac3a3;
+    -fx-background-color: #effbf1;
+    -fx-border-color: #8ac3a3;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+}
+
+
+
+.button:hover {
+    -fx-background-color: #fae3d8;
+}
+
+
+
+.button:focused {
+    -fx-border-width: 3px;
+}
+
+
+#title {
+    -fx-font-size: 32;
+    -fx-font-family: "System";
+    -fx-text-fill: #3672a9;
+    -fx-background-color: #ffe599;
+}
+
+
+.text-field {
+    -fx-font-family: "System";
+    -fx-font-size: 25;
+}
