@@ -19,16 +19,16 @@ Ticket Scanning App is a user-friendly desktop application designed to manage ev
 
 ## How It Works
 
-* Input Ticket Code
+1. Input Ticket Code
   * Enter a ticket code in the input field and press the "Redeem" button.
-* Ticket Validation Process
+2. Ticket Validation Process
   * The app checks the ticket code against the event's database and determines its status:
     * Valid: Updates the ticket status and displays the show type.
     * Duplicate: Notifies the user of the duplicate status.
     * Invalid: Provides feedback for tickets not purchased or incorrect codes.
-* Reset Functionality
+3. Reset Functionality
   * Input reset to mark all tickets as unredeemed.
-* Feedback Mechanism
+4. Feedback Mechanism
   * Displays real-time status in the GUI and plays corresponding sounds for user guidance.
 
 ## Technologies
